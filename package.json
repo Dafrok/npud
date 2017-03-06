@@ -1,0 +1,38 @@
+{
+  "name": "npud",
+  "version": "0.0.3",
+  "description": "Show the update date of npm packages dependencies in your project.",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "npud": "./bin/npud.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dafrok/npud.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "update",
+    "date",
+    "cli"
+  ],
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "author": "Dafrok <o.o@mug.dog>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dafrok/npud/issues"
+  },
+  "homepage": "https://github.com/Dafrok/npud#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "cli": "^1.0.1",
+    "cli-color": "^1.2.0",
+    "moment": "^2.17.1",
+    "node-fetch": "^1.6.3",
+    "pad": "^1.1.0"
+  }
+}
