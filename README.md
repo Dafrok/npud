@@ -14,7 +14,7 @@ $ npm i -g npud
 $ npud
 ```
 
-### Options
+## Options
 
 |Name|Alias|Description|
 |----|:---:|-----------|
