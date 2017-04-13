@@ -1,6 +1,6 @@
 {
   "name": "npud",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Show the update date of npm packages dependencies in your project.",
   "main": "index.js",
   "scripts": {},
